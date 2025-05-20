@@ -3,7 +3,7 @@
 </h1>
 
 - I'm **Tobi Moller**, a passionate **Software Engineering**.
-- I have hands-on experience in **full-stack web development**, **Web3 & Bot deployment**, and **AI-powered solutions**.
+- I have hands-on experience in **Full-stack web development**, **Web3 & Bot deployment**, and **AI-powered solutions**.
 - I have a proven track record through **open-source contributions**, **personal and freelance projects**, and **internships**.
 - I’m currently looking for **job opportunities** in **Fullstack Development**.
 - I’m exploring **TypeScript** and **React 19**.
@@ -27,6 +27,11 @@
     title="JavaScript"
   />
 <img
+  width="35px"
+  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"
+  title="Python"
+/>
+<img
     width="35px"
     src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"
     title="TypeScript"
@@ -44,6 +49,16 @@
 />
 <img
   width="35px"
+  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg"
+  title="Vue"
+/>
+<img
+  width="35px"
+  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg"
+  title="Selenium"
+/>
+<img
+  width="35px"
   src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg"
   title="Redux"
 />
@@ -57,6 +72,11 @@
   src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg"
   style="background: white"
   title="Express.js"
+/>
+<img
+  width="35px"
+  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg"
+  title="Flask"
 />
 <img
   width="35px"
