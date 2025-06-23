@@ -3,10 +3,10 @@
 </h1>
 
 - I'm **Tobi Moller**, a passionate **Software Engineering**.
-- I have hands-on experience in **Full-stack web development**, **Web3 & Bot deployment**, and **AI-powered solutions**.
+- I have hands-on experience in **Full-stack web development**, and **AI-powered solutions**.
 - I have a proven track record through **open-source contributions**, **personal and freelance projects**, and **company jobs**.
 - I’m currently looking for **job opportunities** in **Fullstack Development** with Open to freelance work in EST/PST time zones.
-- I’m exploring **TypeScript** and **React 19**.
+- I’m exploring **TypeScript** and **React 19** & **AI ML**.
 - I’m always eager to build **impactful products** at the intersection of **technology and innovation**.
 
 ## My Go-To Tools 🔧
