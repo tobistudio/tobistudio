@@ -2,7 +2,7 @@
   Greetings Everyone 👋
 </h1>
 
-- I'm **Tobi Moller**, a passionate **Software Engineering**.
+- I'm **Tobi Moller**, a passionate **Senior Software Engineering**.
 - I have hands-on experience in **Full-stack web development**, and **AI-powered solutions**.
 - I have a proven track record through **open-source contributions**, **personal and freelance projects**, and **company jobs**.
 - I’m exploring **TypeScript** and **React 19** & **AI ML**.
