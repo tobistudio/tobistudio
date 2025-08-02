@@ -8,7 +8,7 @@
 - I’m exploring **TypeScript** and **React 19** & **AI ML**.
 - I’m always eager to build **impactful products** at the intersection of **technology and innovation**.
 
-## My Go-To Tools 🔧
+## My Core Skills 🔧
 
 <img
   width="35px"
